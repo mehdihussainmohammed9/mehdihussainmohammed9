@@ -1,16 +1,30 @@
-### Hi there 👋
+![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
+<h1 align="center">Hi 👋, I'm Mehdi Hussain Mohammed</h1>
+<h3 align="center">A passionate developer from India.</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"> -->
 
-<!--
-**mehdihussainmohammed9/mehdihussainmohammed9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdihussainmohammed9&label=Profile%20views&color=0e75b6&style=flat" alt="mehdihussainmohammed9" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdihussainmohammed9" alt="mehdihussainmohammed9" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 📝 I regularly write articles on [https://mehdihussainmohammed.medium.com/](https://mehdihussainmohammed.medium.com/)
+
+- 💬 Ask me about **MERN, React native, AWS**
+
+- 📫 How to reach me **avez1997@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mehdi-hussain-mohammed-88942886/](https://www.linkedin.com/in/mehdi-hussain-mohammed-88942886/)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+ 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdihussainmohammed9&show_icons=true&locale=en&layout=compact" alt="mehdihussainmohammed9" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdihussainmohammed9&show_icons=true&locale=en" alt="mehdihussainmohammed9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdihussainmohammed9&" alt="mehdihussainmohammed9" /></p>
