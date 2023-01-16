@@ -17,14 +17,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mehdi-hussain-mohammed-88942886/](https://www.linkedin.com/in/mehdi-hussain-mohammed-88942886/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ 
 
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdihussainmohammed9&show_icons=true&locale=en&layout=compact" alt="mehdihussainmohammed9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdihussainmohammed9&show_icons=true&locale=en" alt="mehdihussainmohammed9" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdihussainmohammed9&" alt="mehdihussainmohammed9" /></p>
