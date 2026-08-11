@@ -6,7 +6,7 @@
   alt="Mehdi Hussain Mohammed"
 />
 
-<h1>Mehdi Hussain Mohammed</h1>
+<!-- <h1>Mehdi Hussain Mohammed</h1> -->
 
 <p>
   <strong>Full-Stack Engineer</strong> · MERN · React Native · AWS
