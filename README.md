@@ -9,7 +9,7 @@
 <!-- <h1>Mehdi Hussain Mohammed</h1> -->
 
 <p>
-  <strong>Full-Stack Engineer</strong> · MERN · React Native · AWS · Azure  · Devops
+  <strong>Full-Stack Web | Mobile app Developer</strong> · MERN · React Native · AWS · Azure  · Devops
 </p>
 
 <p>
